@@ -18,3 +18,16 @@ h1 {
     font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
     text-align: center;
 }
+
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:visited {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:hover {
+    color: #9B4DDB;
+    text-decoration: underline;
+}
